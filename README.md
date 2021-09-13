@@ -11,7 +11,7 @@ Demo project: (https://filter-names-1f12.web.app/)
 
 # Usage:
     ```
-    Usage: searchNames.js [OPTIONS]
+    Usage: App.js [OPTIONS]
 
     Lets you search names.
     Developed by Sajawal Hassan -> (Github: SajawalHassan)
